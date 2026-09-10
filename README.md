@@ -6,9 +6,7 @@ These are some of my favorite extensions to make React development easier and fu
 
 ## Extensions Included
 
-* [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Adds code snippets for React development in ES6 
-
-
+* [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Adds code snippets for ReactJS/Redux/React-Native development (with built-in TypeScript support) in ES7+
 * [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code. 
 * [JavaScript (ES6) Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Adds code snippets for JavaScript development in ES6 syntax. 
 * [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search for node modules in your project. 

@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.7.0]
+
+- Added TypeScript and Redux support by upgrading to [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) extension from [Reactjs code snippets](https://marketplace.visualstudio.com/publishers/xabikos)
+
 ## [0.6.0]
 
 - Remove depreciated [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) extension
